@@ -10,7 +10,7 @@ This app track basic information about their users. This information includes, b
 
 ## Cookies
 
-Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the user and/or present the user with customized content.
+Where necessary, this app uses cookies to store information about a visitor's preferences and history in order to better serve the user and/or present the user with customized content.
 
 
 ## Advertisement and Other Third Parties
